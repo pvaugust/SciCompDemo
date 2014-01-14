@@ -2,3 +2,6 @@ This is some content for the file
 
 Here is some more content for this file.
 And a thid line
+
+I can add a line from the Git web site
+
